@@ -1,0 +1,19 @@
+# Temporary files
+temp/
+*.mp4
+*.webm
+
+# Keep MOV files in output/ (they're the final deliverables)
+
+# Node modules (if any)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
